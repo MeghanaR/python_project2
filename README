@@ -1,0 +1,71 @@
+README
+--------
+
+Group Members
+---------------
+Ananda Kumar Agarwala 	1PI10CS013
+Meghana.R		1PI10IS053
+Ayesha Sabah Hasan	1PI10IS128
+
+PROJECT TITLE
+----------------
+WikiPeople 2
+
+
+PROJECT DESCRIPTION
+-----------------------
+Our project deals with providing the details about the freedom fighters of India.
+Given a query through command line input,a test database is dynamically and randomly generated and the query is executed.
+The command line query is given in the client terminal.As the client requests the server,then the connection is established and the server responds to the query by each client.A log file is also generated to keep track of what each client is requesting for and also the time.
+
+PROCEDURE TO EXECUTE PROGRAM
+-------------------------------
+Run the server1.py file in one terminal.
+In other terminals run the client.py along with the command line inputs mentioned below.
+Enter the number of database entries to be generated.
+The connection can be closed by executing the command python client.py -e end.
+
+COMMAND LINE INPUT 
+-------------------- 
+
+1) List 10 freedom fighters of India
+	python client.py -n name -t 10 -r india -f freedomfighters
+
+2) List the freedom fighters of southern India
+	python client.py -n name -r southindia -f freedomfighters
+
+3)List the freedom fighters of India and their achievements
+	python client.py -n name -a achievements -t 10 -r india -f freedomfighters
+
+4) List the female freedom fighters of India
+	python client.py -n name -g female -f freedomfighters
+
+5) Give the details of atleast 5 freedomfighters(birth, death, known for, other names)
+	python client.py -d details -t 5 -f freedomfighters
+
+6) To close the connection
+	python client.py -e end
+
+USING HELP 
+------------
+For using the help function avilable in this package
+
+1) Type python to get the interactive python shell
+2) import main
+3)To get help about the functions included in main.py use the following command 
+	help(main.names)
+	help(main.gender1)
+	help(main.achieve)
+	help(main.region1)
+	help(main.det)
+
+4)For help in __init__.py
+	import __init__
+	help(__init__)
+
+5)For help in modules in package2
+	cd package2
+	python
+	import __init__
+	help(__init__) 
+

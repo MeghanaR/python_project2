@@ -1,0 +1,34 @@
+Log Entry for :2013-03-17 16:49:47.555581
+
+Client:127.0.0.1
+Time:2013-03-17 16:49:51.907759
+Arguments passed by Client client.py -n name -t 10 -r india -f freedomfighters
+
+Client:127.0.0.1
+Time:2013-03-17 16:49:59.431439
+Arguments passed by Client client.py -n name -g female -f freedomfighters
+
+Client:127.0.0.1
+Time:2013-03-17 16:50:04.386773
+Arguments passed by Client client.py -n name -r southindia -f freedomfighters
+
+Client:127.0.0.1
+Time:2013-03-17 16:50:09.760352
+Arguments passed by Client client.py -n name -a achievements -t 10 -r india -f freedomfighters
+
+Client:127.0.0.1
+Time:2013-03-17 16:50:15.195061
+Arguments passed by Client client.py -d details -t 5 -f freedomfighters
+
+Client:127.0.0.1
+Time:2013-03-17 16:50:22.685810
+Arguments passed by Client client.py -n name -a achievements -t 10 -r india -f freedomfightes
+
+Client:127.0.0.1
+Time:2013-03-17 16:50:30.139552
+Arguments passed by Client client.py -d details -t 5 -f freedomfighters
+
+Client:127.0.0.1
+Time:2013-03-17 16:50:37.314583
+Arguments passed by Client client.py -e end
+

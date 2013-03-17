@@ -1,0 +1,10 @@
+Deepti Kumari Singh,female,21/7/1918,6/10/1971,northindia,Social Award;,Godmother;
+Krishna Kumar Bhat,male,21/10/1904,23/2/1949,southindia,Bravery Award;Bravery Award;Formed the Constitution of India;,Bapu;Manmohan;
+Dheeraj Kumari Tagore,male,20/12/1906,15/10/1940,india,Talent Award;Ranjit Award;,Godfather;Godfather;
+Madhur V Lal,male,17/6/1905,30/4/1957,india,Bravery Award;Ranjit Award;Gold Award;,
+Geetha N Iyer,female,26/9/1908,13/8/1971,india,Talent Award;Fought for India's Independence;Talent Award;Ranjit Award;Fought for India's Independence;,
+Ayesha Kumar Naidu,female,26/11/1902,22/5/1960,northindia,Free Democratic India;Best Ruler;,
+Nitin R Agarwal,male,1/10/1929,3/11/1957,southindia,Formed the Constitution of India;Archery Award;Formed the Constitution of India;,Manmohan;Manmohan;
+Ayesha Kumari Sharma,female,6/10/1929,14/1/1962,southindia,Gold Award;Archery Award;Fought for India's Independence;Archery Award;,Nightingale of India;Nightingale of India;
+Nitin D Naidu,male,29/12/1924,8/4/1940,southindia,Fought for India's Independence;Best Ruler;,Manmohan;
+Anand R Murthy,male,30/3/1924,4/12/1953,india,Fought for India's Independence;Talent Award;Ranjit Award;,
